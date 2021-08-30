@@ -14,3 +14,18 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Settings:
+    Flutter version: 2.2.3 - Channel stable
+    Dependencies: pubspec.yml
+
+Objective
+    This application is intended for studies for the application of Mobx and SQFLite.
+    As a business rule, the concept of a radio based on Streams was applied.
+    The user can register their Streams list reducing only the songs they really want to hear.
+    No commercials or interruptions.
+
+
+
+
+    
